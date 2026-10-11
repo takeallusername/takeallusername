@@ -106,21 +106,11 @@ App Store 결제 알림의 서명 인증서 체인을 검증하는 서버 함수
 
 ## 🌱 Open Source
 
-| 프로젝트 | 기여 | 릴리스 |
-|---|---|---|
-| Spring Security | [#15898](https://github.com/spring-projects/spring-security/pull/15898) | 6.4.0 |
-| Spring Kafka | [#3550](https://github.com/spring-projects/spring-kafka/pull/3550) | 3.3.0 |
-| Apache Kafka | [#17464](https://github.com/apache/kafka/pull/17464) | 4.0.0 |
-
-<br/>
-
-## 🧪 Backend Lab
-
-| 저장소 | 내용 |
+| 프로젝트 | 기여 |
 |---|---|
-| [rush](https://github.com/takeallusername/rush) | 선착순 쿠폰 발급 시스템. Caffeine 로컬 캐시로 품절 요청을 먼저 거르고, Redis Lua 스크립트로 재고 확인, 중복 체크, 차감을 원자적으로 처리한 뒤 큐에 쌓아 JDBC Batch로 저장 |
-| [Tunely-stock](https://github.com/takeallusername/Tunely-stock) | DART 공시와 재무 데이터, 주가를 모아 보는 관심 기업 대시보드. NestJS, MikroORM, MySQL, Next.js, k6 부하 테스트 |
-| [Tunely-CourseRegistration](https://github.com/takeallusername/Tunely-CourseRegistration) | 강의와 세션 관리, 수강 신청 REST API. Spring Boot 3.5, JPA |
+| Spring Security | [#15898](https://github.com/spring-projects/spring-security/pull/15898) |
+| Spring Kafka | [#3550](https://github.com/spring-projects/spring-kafka/pull/3550) |
+| Apache Kafka | [#17464](https://github.com/apache/kafka/pull/17464) |
 
 <br/>
 

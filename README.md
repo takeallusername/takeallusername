@@ -7,7 +7,7 @@
 원인은 측정으로 찾고, 해결은 재발하지 않는 구조로 남깁니다.
 
 <a href="https://github.com/kwonyonghyun"><img src="https://img.shields.io/badge/이전_계정-kwonyonghyun-181717?style=for-the-badge&logo=github&logoColor=white" alt="kwonyonghyun"/></a>
-<a href="https://apps.apple.com/us/developer/yong-hyun-kwon/id1873962338"><img src="https://img.shields.io/badge/App_Store-Yong_Hyun_Kwon-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/></a>
+<a href="https://apps.apple.com/us/developer/yong-hyun-kwon/id1873962338"><img src="https://img.shields.io/badge/출시한_앱-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="출시한 앱"/></a>
 
 </div>
 
@@ -100,7 +100,7 @@ OAuth 토큰은 암호화해 저장하고 만료 전에 자동으로 갱신합�
 
 App Store 결제 알림의 서명 인증서 체인을 검증하는 서버 함수를 구현했습니다.
 
-🔗 [App Store 개발자 페이지](https://apps.apple.com/us/developer/yong-hyun-kwon/id1873962338)
+🔗 [App Store에 출시한 앱 보기](https://apps.apple.com/us/developer/yong-hyun-kwon/id1873962338)
 
 <br/>
 

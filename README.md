@@ -6,7 +6,6 @@
 
 원인은 측정으로 찾고, 해결은 재발하지 않는 구조로 남깁니다.
 
-<a href="https://kwonyonghyun.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/kwonyonghyun"><img src="https://img.shields.io/badge/이전_계정-kwonyonghyun-181717?style=for-the-badge&logo=github&logoColor=white" alt="kwonyonghyun"/></a>
 
 </div>

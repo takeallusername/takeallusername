@@ -51,7 +51,7 @@
 ## 🚀 Featured Projects
 
 ### Modulo 맞춤형 이력서 서비스 백엔드
-> Java, Spring Boot, Spring Security JWT, JPA, MySQL, Redis, Docker, GitHub Actions, AWS EC2
+> Java, Spring Boot, JPA, MySQL, Redis, Docker, GitHub Actions, AWS EC2
 
 경험을 모듈로 한 번만 저장하고, 이력서에는 모듈의 순서와 배치만 저장하는 이력서 서비스의 백엔드를 설계부터 운영까지 맡았습니다.
 
